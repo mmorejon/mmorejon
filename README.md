@@ -1,5 +1,10 @@
-### Hi there 👋
+📖 Érase una vez Kubernetes: Libro para aprender Kubernetes desde cero. Disponible en [Leanpub](http://bit.ly/36TkUYC) y [Amazon](https://amzn.to/2Cng0Jr).
 
+📫 [mmorejon.io](https://mmorejon.io)
+
+📽️ [Primeros pasos en GitOps](https://www.youtube.com/watch?v=KlUjaPZrz9c&t=3043s)
+
+ ⚡ Listo para trabajar en equipo!
 <!--
 **mmorejon/mmorejon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
