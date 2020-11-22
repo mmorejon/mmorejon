@@ -1,6 +1,6 @@
 📖 Érase una vez Kubernetes: Libro para aprender Kubernetes desde cero. Disponible en [Leanpub](http://bit.ly/36TkUYC) y [Amazon](https://amzn.to/2Cng0Jr).
 
-📫 [mmorejon.io](https://mmorejon.io)
+⚙️ [Kubexercises](https://kubexercises.mmorejon.io/) is a system for practicing and testing Kubernetes knowledge.
 
 📽️ [Primeros pasos en GitOps](https://www.youtube.com/watch?v=KlUjaPZrz9c&t=3043s)
 <!--
