@@ -1,19 +1,11 @@
-📖 Érase una vez Kubernetes: Libro para aprender Kubernetes desde cero. Disponible en [Leanpub](http://bit.ly/36TkUYC) y [Amazon](https://amzn.to/2Cng0Jr).
+# Manuel Morejón
 
-⚙️ [Kubexercises](https://kubexercises.mmorejon.io/) is a system for practicing and testing Kubernetes knowledge.
+Cloud Engineer apasionado por temas de Arquitecturas Cloud Native, Microservicios y CI/CD.
 
-📽️ [Primeros pasos en GitOps](https://www.youtube.com/watch?v=KlUjaPZrz9c&t=3043s)
-<!--
-**mmorejon/mmorejon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Libro Érase una vez Kubernetes
 
-Here are some ideas to get you started:
+Libro para aprender Kubernetes desde cero. Disponible en [Leanpub](http://bit.ly/36TkUYC) y [Amazon](https://amzn.to/2Cng0Jr).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Enfocado en GitOps
+
+[Automatizando Kubernetes con GitOps + Flux2](https://www.youtube.com/playlist?list=PLuQL-CB_D1E7gRzUGlchvvmGDF1rIiWkj). Esta serie de capítulos te ayudarán a conocoer e implementar GitOps.
