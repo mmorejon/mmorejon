@@ -1,7 +1,3 @@
-# Manuel Morejón
-
-Cloud Engineer apasionado por temas de Arquitecturas Cloud Native, Microservicios y CI/CD.
-
 ### Libro Érase una vez Kubernetes
 
 Libro para aprender Kubernetes desde cero. Disponible en [Leanpub](http://bit.ly/36TkUYC) y [Amazon](https://amzn.to/2Cng0Jr).
