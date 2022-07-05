@@ -1,6 +1,10 @@
-### Libro Érase una vez Kubernetes
+### Autor de libros sobre contenedores
 
-Libro para aprender Kubernetes desde cero. Disponible en [Leanpub](http://bit.ly/36TkUYC) y [Amazon](https://amzn.to/2Cng0Jr).
+| Libro | Enlace | Descripción |
+| ----- | ------ | ----------- |
+| Érase una vez Docker | [Leanpub](https://leanpub.com/erase-una-vez-docker) | Aprenda Docker desde cero. |
+| Érase una vez Kubernetes | [Leanpub](http://bit.ly/36TkUYC) y [Amazon](https://amzn.to/2Cng0Jr) | Aprenda Kubernetes desde cero. | 
+| Érase una vez Contenedores | [Leanpub](https://leanpub.com/b/erase-una-vez-contenedores) | Pack con descuento para ambos libros. |
 
 ### Enfocado en GitOps
 
