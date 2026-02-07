@@ -47,9 +47,9 @@ Explore the code behind the books. **Starring ⭐ these repos helps a lot!**
 A complete video series covering FluxCD, Helm releases, and GitOps principles.
 *Serie completa en español sobre cómo automatizar tus despliegues con GitOps.*
 
-[![GitOps Course](https://img.youtube.com/vi/ID_DEL_VIDEO/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLuQL-CB_D1E7gRzUGlchvvmGDF1rIiWkj)
+[![GitOps Course](https://youtube.com/playlist?list=PLuQL-CB_D1E7gRzUGlchvvmGDF1rIiWkj&si=bCjMSJPXvvkJKiGS)
 
-[**👉 Watch the Playlist / Ver el Curso**](https://www.youtube.com/playlist?list=PLuQL-CB_D1E7gRzUGlchvvmGDF1rIiWkj)
+[**👉 Watch the Playlist / Ver el Curso**](https://youtube.com/playlist?list=PLuQL-CB_D1E7gRzUGlchvvmGDF1rIiWkj&si=bCjMSJPXvvkJKiGS)
 
 ---
 
