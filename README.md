@@ -1,11 +1,63 @@
-### Autor de libros sobre contenedores
+### Hi there, I'm Manuel Morejón 👋
 
-| Libro | Enlace | Descripción |
-| ----- | ------ | ----------- |
-| Érase una vez Docker | [Leanpub](https://leanpub.com/erase-una-vez-docker) | Aprenda Docker desde cero. |
-| Érase una vez Kubernetes | [Leanpub](http://bit.ly/36TkUYC) y [Amazon](https://amzn.to/2Cng0Jr) | Aprenda Kubernetes desde cero. | 
-| Érase una vez Contenedores | [Leanpub](https://leanpub.com/b/erase-una-vez-contenedores) | Pack con descuento para ambos libros. |
+**Cloud Native Engineer & Technical Author**
+I bridge the gap between complex DevOps concepts and hands-on implementation.
+My goal is to help you master **Kubernetes** and **Docker** through practice.
 
-### Enfocado en GitOps
+🗣️ **Languages:** English 🇬🇧 / Español 🇪🇸
 
-[Automatizando Kubernetes con GitOps + Flux2](https://www.youtube.com/playlist?list=PLuQL-CB_D1E7gRzUGlchvvmGDF1rIiWkj). Esta serie de capítulos te ayudarán a conocoer e implementar GitOps.
+---
+
+### 📚 My Books / Mis Libros
+
+I believe knowledge should be accessible. You can get the **Digital Editions** on a *"Pay What You Want"* basis, or support my work by buying the **Paperback**.
+
+| **Once Upon a Time Kubernetes** | **Érase una vez Docker** | **Érase una vez Kubernetes** |
+| :---: | :---: | :---: |
+| <a href="https://leanpub.com/once-upon-a-time-kubernetes"><img src="https://github.com/mmorejon/once-upon-a-time-k8s/blob/main/assets/book-cover.jpg" width="150" alt="Kubernetes English"></a> | <a href="https://leanpub.com/erase-una-vez-docker"><img src="https://github.com/mmorejon/erase-una-vez-docker/blob/main/assets/cover-image.jpg" width="150" alt="Docker Español"></a> | <a href="https://leanpub.com/erase-una-vez-kubernetes"><img src="https://github.com/mmorejon/erase-una-vez-k8s/blob/main/assets/book-cover.jpg" width="150" alt="Kubernetes Español"></a> |
+| 🇬🇧 **English Edition**<br>*(Updated v1.35 + Kind)* | 🇪🇸 **Edición en Español**<br>*(Aprende desde cero)* | 🇪🇸 **Edición en Español**<br>*(Actualizado v1.35)* |
+| [📖 Download (Free/PWYW)](https://leanpub.com/once-upon-a-time-kubernetes)<br>[📦 Buy Paperback (Amazon)](https://www.amazon.com/dp/B0FB44MDQ7) | [📖 Descargar (Gratis)](https://leanpub.com/erase-una-vez-docker)<br>[📦 Tapa Blanda (Amazon)](https://www.amazon.es/dp/B0GJ4ZR84B) | [📖 Descargar (Gratis)](https://leanpub.com/erase-una-vez-kubernetes)<br>[📦 Tapa Blanda (Amazon)](https://www.amazon.es/dp/B0GHG88VVY) |
+
+---
+
+### 🚀 Top Repositories & Labs
+
+Explore the code behind the books. **Starring ⭐ these repos helps a lot!**
+
+#### 📖 Book Companions
+* **[once-upon-a-time-k8s](https://github.com/mmorejon/once-upon-a-time-k8s)**: (🔥 *Hot*) Official lab environment for the K8s book (English). Fully migrated to **Kind**. No VMs needed.
+* **[erase-una-vez-k8s](https://github.com/mmorejon/erase-una-vez-k8s)**: Laboratorios oficiales para la edición en Español. Actualizado a **Kind** y **v1.35**.
+* **[erase-una-vez-docker](https://github.com/mmorejon/erase-una-vez-docker)**: Ejercicios completos para dominar Dockerfiles, Redes y Volúmenes (Spanish Edition).
+
+#### 🛠️ Architecture & Microservices
+* **[microservices-docker-go-mongodb](https://github.com/mmorejon/microservices-docker-go-mongodb)**: A complete reference architecture.
+    * **Stack:** Go (Golang), MongoDB, Docker Swarm/Compose.
+    * **Features:** REST API design, Containerization patterns, Database connectivity.
+
+---
+
+### 🛠️ Tech Stack & Tools
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📺 Free Course: GitOps with FluxCD
+
+**Master Continuous Delivery on Kubernetes.**
+A complete video series covering FluxCD, Helm releases, and GitOps principles.
+*Serie completa en español sobre cómo automatizar tus despliegues con GitOps.*
+
+[![GitOps Course](https://img.youtube.com/vi/ID_DEL_VIDEO/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLuQL-CB_D1E7gRzUGlchvvmGDF1rIiWkj)
+
+[**👉 Watch the Playlist / Ver el Curso**](https://www.youtube.com/playlist?list=PLuQL-CB_D1E7gRzUGlchvvmGDF1rIiWkj)
+
+---
+
+### 💖 Sponsor My Work / Apoya mi trabajo
+Maintaining these repositories and keeping the books updated takes hundreds of hours. / Mantener estos libros y repositorios actualizados lleva cientos de horas.
+
+If my work helped you, consider becoming a sponsor:
+* **Supporter ($3/mo):** Get your avatar in my main repos + Sponsor Badge.
+* **Corporate ($50/mo):** Put your company logo here.
+
+[**👉 Become a GitHub Sponsor**](https://github.com/sponsors/mmorejon)
