@@ -16,7 +16,7 @@ I believe knowledge should be accessible. You can get the **Digital Editions** o
 | :---: | :---: | :---: |
 | <a href="https://leanpub.com/once-upon-a-time-kubernetes"><img src="https://github.com/mmorejon/once-upon-a-time-k8s/blob/main/assets/book-cover.jpg" width="150" alt="Kubernetes English"></a> | <a href="https://leanpub.com/erase-una-vez-docker"><img src="https://github.com/mmorejon/erase-una-vez-docker/blob/main/assets/cover-image.jpg" width="150" alt="Docker Español"></a> | <a href="https://leanpub.com/erase-una-vez-kubernetes"><img src="https://github.com/mmorejon/erase-una-vez-k8s/blob/main/assets/book-cover.jpg" width="150" alt="Kubernetes Español"></a> |
 | 🇬🇧 **English Edition**<br>*(Updated v1.35 + Kind)* | 🇪🇸 **Edición en Español**<br>*(Aprende desde cero)* | 🇪🇸 **Edición en Español**<br>*(Actualizado v1.35)* |
-| [📖 Download (Free/PWYW)](https://leanpub.com/once-upon-a-time-kubernetes)<br>[📦 Buy Paperback (Amazon)](https://www.amazon.com/dp/B0FB44MDQ7) | [📖 Descargar (Gratis)](https://leanpub.com/erase-una-vez-docker)<br>[📦 Tapa Blanda (Amazon)](https://www.amazon.es/dp/B0GJ4ZR84B) | [📖 Descargar (Gratis)](https://leanpub.com/erase-una-vez-kubernetes)<br>[📦 Tapa Blanda (Amazon)](https://www.amazon.es/dp/B0GHG88VVY) |
+| [📖 Download (Free/PWYW)](https://leanpub.com/once-upon-a-time-kubernetes)<br>[📦 Buy Paperback (Amazon)](https://www.amazon.com/dp/B0FB44MDQ7) | [📖 Descargar (Free/PWYW)](https://leanpub.com/erase-una-vez-docker)<br>[📦 Tapa Blanda (Amazon)](https://www.amazon.es/dp/B0GJ4ZR84B) | [📖 Descargar (Minimum purchase)](https://leanpub.com/erase-una-vez-kubernetes)<br>[📦 Tapa Blanda (Amazon)](https://www.amazon.es/dp/B0GHG88VVY) |
 
 ---
 
