@@ -17,8 +17,5 @@ jobs:
         with:
           token: ${{ secrets.GH_TOKEN }}
           file: 'README.md'
-          # Configuración visual (puedes ajustar esto luego)
-          markers: 'true'
-          minimum: 100 # Opcional: Si quisieras mostrar solo a los que pagan mínimo X centavos
-          columns: 6   # Número de avatares por fila
-          width: 80    # Tamaño del avatar en px
+          marker: 'sponsors'   # Coincide con <!-- sponsors --> en el README
+          minimum: 100         # Opcional: mostrar solo sponsors que aportan al menos 100 centavos
