@@ -52,10 +52,10 @@ A complete video series covering FluxCD, Helm releases, and GitOps principles.
 ---
 
 ### 💖 Sponsor My Work / Apoya mi trabajo
-Maintaining these repositories and keeping the books updated takes hundreds of hours. / Mantener estos libros y repositorios actualizados lleva cientos de horas.
 
-If my work helped you, consider becoming a sponsor:
-* **Supporter ($3/mo):** Get your avatar in my main repos + Sponsor Badge.
-* **Corporate ($50/mo):** Put your company logo here.
+Thank you for considering supporting this work — every contribution helps me keep the books and repos updated and free for everyone. / Gracias por apoyar este proyecto: cada aporte me permite seguir manteniendo los libros y repos actualizados y accesibles para todos.
 
 [**👉 Become a GitHub Sponsor**](https://github.com/sponsors/mmorejon)
+
+<!-- sponsors -->
+<!-- sponsors -->
