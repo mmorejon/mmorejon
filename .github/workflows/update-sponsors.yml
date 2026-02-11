@@ -5,12 +5,19 @@ on:
   schedule:
     - cron: '0 0 * * *' # Se ejecuta automáticamente cada día a medianoche
 
+permissions:
+  contents: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # Necesario para hacer push del README actualizado
     steps:
       - name: Checkout 🛎️
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
 
       - name: Generate Sponsors 💖
         uses: JamesIves/github-sponsors-readme-action@v1
@@ -19,3 +26,13 @@ jobs:
           file: 'README.md'
           marker: 'sponsors'   # Coincide con <!-- sponsors --> en el README
           minimum: 100         # Opcional: mostrar solo sponsors que aportan al menos 100 centavos
+
+      - name: Commit and push README 📤
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet README.md || {
+            git add README.md
+            git commit -m "💖 Update sponsors in README"
+            git push
+          }
