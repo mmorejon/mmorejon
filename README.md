@@ -57,5 +57,4 @@ Thank you for considering supporting this work — every contribution helps me k
 
 [**👉 Become a GitHub Sponsor**](https://github.com/sponsors/mmorejon)
 
-<!-- sponsors -->
-<!-- sponsors -->
+<!-- sponsors --><a href="https://github.com/enribd"><img src="https:&#x2F;&#x2F;github.com&#x2F;enribd.png" width="60px" alt="User avatar: Enrique Benito" /></a><a href="https://github.com/christiangonre"><img src="https:&#x2F;&#x2F;github.com&#x2F;christiangonre.png" width="60px" alt="User avatar: Christian González" /></a><!-- sponsors -->
