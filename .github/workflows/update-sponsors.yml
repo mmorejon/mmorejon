@@ -19,14 +19,14 @@ jobs:
         with:
           token: ${{ secrets.GH_TOKEN }}
 
-      - name: Generate Sponsors – Cluster ($50) 🏢
-        uses: JamesIves/github-sponsors-readme-action@v1
-        with:
-          token: ${{ secrets.GH_TOKEN }}
-          file: 'README.md'
-          marker: 'cluster'
-          minimum: 5000
-          fallback: ''
+      # - name: Generate Sponsors – Cluster ($50) 🏢
+      #   uses: JamesIves/github-sponsors-readme-action@v1
+      #   with:
+      #     token: ${{ secrets.GH_TOKEN }}
+      #     file: 'README.md'
+      #     marker: 'cluster'
+      #     minimum: 5000
+      #     fallback: ''
 
       - name: Generate Sponsors – Book Patron ($10) 🖋️
         uses: JamesIves/github-sponsors-readme-action@v1
@@ -47,27 +47,6 @@ jobs:
           minimum: 300
           maximum: 999
           fallback: ''
-
-      - name: Hide empty sponsor tiers 🙈
-        run: |
-          python3 << 'PY'
-          import re
-          with open('README.md', 'r') as f:
-              content = f.read()
-          # Bloques: título + marcador abierto + contenido + marcador cerrado (eliminar si contenido vacío)
-          blocks = [
-              (r'\n#### 🏢 Cluster \(Institutional Partner\) - \$50\n\n<!-- cluster -->\n?(.*?)<!-- cluster -->', 'cluster'),
-              (r'\n#### 🖋️ Book Patron \(Legacy\) - \$10\n\n<!-- book -->\n?(.*?)<!-- book -->', 'book'),
-              (r'\n#### 🐳 Container \(The Foundation\) - \$3\n\n<!-- container -->\n?(.*?)<!-- container -->', 'container'),
-          ]
-          for pattern, _ in blocks:
-              def repl(m):
-                  inner = m.group(1).strip()
-                  return '' if not inner else m.group(0)
-              content = re.sub(pattern, repl, content, flags=re.DOTALL)
-          with open('README.md', 'w') as f:
-              f.write(content)
-          PY
 
       - name: Commit and push README 📤
         run: |

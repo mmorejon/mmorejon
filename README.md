@@ -57,7 +57,7 @@ Thank you for considering supporting this work — every contribution helps me k
 
 [**👉 Become a GitHub Sponsor**](https://github.com/sponsors/mmorejon)
 
-#### 🏢 Cluster (Institutional Partner)
+<!-- #### 🏢 Cluster (Institutional Partner)
 <!-- cluster -->
 <!-- cluster -->
 
