@@ -17,12 +17,12 @@ jobs:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.SPONSORS_TOKEN }}
 
       # - name: Generate Sponsors – Cluster ($50) 🏢
       #   uses: JamesIves/github-sponsors-readme-action@v1
       #   with:
-      #     token: ${{ secrets.GH_TOKEN }}
+      #     token: ${{ secrets.SPONSORS_TOKEN }}
       #     file: 'README.md'
       #     marker: 'cluster'
       #     minimum: 5000
@@ -31,7 +31,7 @@ jobs:
       - name: Generate Sponsors – Book Patron ($10) 🖋️
         uses: JamesIves/github-sponsors-readme-action@v1
         with:
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.SPONSORS_TOKEN }}
           file: 'README.md'
           marker: 'book'
           minimum: 1000
@@ -41,7 +41,7 @@ jobs:
       - name: Generate Sponsors – Container ($3) 🐳
         uses: JamesIves/github-sponsors-readme-action@v1
         with:
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.SPONSORS_TOKEN }}
           file: 'README.md'
           marker: 'container'
           minimum: 300
