@@ -57,9 +57,9 @@ Thank you for considering supporting this work — every contribution helps me k
 
 [**👉 Become a GitHub Sponsor**](https://github.com/sponsors/mmorejon)
 
-<!-- #### 🏢 Cluster (Institutional Partner)
+#### 🏢 Cluster (Institutional Partner)
 <!-- cluster -->
-<!-- cluster -->
+<!-- cluster
 
 #### 🖋️ Book Patron (Legacy)
 <!-- book --><a href="https://github.com/jsgiraldoh"><img src="https:&#x2F;&#x2F;github.com&#x2F;jsgiraldoh.png" width="60px" alt="User avatar: Johan Giraldo" /></a><!-- book -->

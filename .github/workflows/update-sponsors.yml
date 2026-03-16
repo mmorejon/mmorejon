@@ -19,14 +19,14 @@ jobs:
         with:
           token: ${{ secrets.SPONSORS_TOKEN }}
 
-      # - name: Generate Sponsors – Cluster ($50) 🏢
-      #   uses: JamesIves/github-sponsors-readme-action@v1
-      #   with:
-      #     token: ${{ secrets.SPONSORS_TOKEN }}
-      #     file: 'README.md'
-      #     marker: 'cluster'
-      #     minimum: 5000
-      #     fallback: ''
+      - name: Generate Sponsors – Cluster ($50) 🏢
+        uses: JamesIves/github-sponsors-readme-action@v1
+        with:
+          token: ${{ secrets.SPONSORS_TOKEN }}
+          file: 'README.md'
+          marker: 'cluster'
+          minimum: 5000
+          fallback: ''
 
       - name: Generate Sponsors – Book Patron ($10) 🖋️
         uses: JamesIves/github-sponsors-readme-action@v1
