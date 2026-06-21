@@ -64,4 +64,4 @@ Thank you for considering supporting this work — every contribution helps me k
 <!-- book --><a href="https://github.com/jsgiraldoh"><img src="https:&#x2F;&#x2F;github.com&#x2F;jsgiraldoh.png" width="60px" alt="User avatar: Johan Giraldo" /></a><!-- book -->
 
 #### 🐳 Container (The Foundation)
-<!-- container --><a href="https://github.com/bedoyacloud"><img src="https:&#x2F;&#x2F;github.com&#x2F;bedoyacloud.png" width="60px" alt="User avatar: Carlos Bedoya" /></a><!-- container -->
+<!-- container --><!-- container -->
