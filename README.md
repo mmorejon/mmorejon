@@ -12,11 +12,11 @@ My goal is to help you master **Kubernetes** and **Docker** through practice.
 
 I believe knowledge should be accessible. You can get the **Digital Editions** on a *"Pay What You Want"* basis, or support my work by buying the **Paperback**.
 
-| **Once Upon a Time Kubernetes** | **Érase una vez Docker** | **Érase una vez Kubernetes** |
-| :---: | :---: | :---: |
-| <a href="https://leanpub.com/once-upon-a-time-kubernetes"><img src="https://github.com/mmorejon/once-upon-a-time-k8s/blob/main/assets/book-cover.jpg" width="150" alt="Kubernetes English"></a> | <a href="https://leanpub.com/erase-una-vez-docker"><img src="https://github.com/mmorejon/erase-una-vez-docker/blob/main/assets/cover-image.jpg" width="150" alt="Docker Español"></a> | <a href="https://leanpub.com/erase-una-vez-kubernetes"><img src="https://github.com/mmorejon/erase-una-vez-k8s/blob/main/assets/book-cover.jpg" width="150" alt="Kubernetes Español"></a> |
-| 🇬🇧 **English Edition**<br>*(Updated v1.35 + Kind)* | 🇪🇸 **Edición en Español**<br>*(Aprende desde cero)* | 🇪🇸 **Edición en Español**<br>*(Actualizado v1.35)* |
-| [📖 Download (Free/PWYW)](https://leanpub.com/once-upon-a-time-kubernetes)<br>[📦 Buy Paperback (Amazon)](https://www.amazon.com/dp/B0FB44MDQ7) | [📖 Descargar (Free/PWYW)](https://leanpub.com/erase-una-vez-docker)<br>[📦 Tapa Blanda (Amazon)](https://www.amazon.es/dp/B0GJ4ZR84B) | [📖 Descargar (Free/PWYW)](https://leanpub.com/erase-una-vez-kubernetes)<br>[📦 Tapa Blanda (Amazon)](https://www.amazon.es/dp/B0GHG88VVY) |
+| **Docker: Once Upon a Time** | **Kubernetes: Once Upon a Time** | **Docker: Érase una vez** | **Kubernetes: Érase una vez** |
+| :---: | :---: | :---: | :---: |
+| <a href="https://leanpub.com/once-upon-a-time-docker"><img src="https://github.com/mmorejon/once-upon-a-time-docker/blob/main/assets/cover-image.jpg" width="150" alt="Docker English"></a> | <a href="https://leanpub.com/once-upon-a-time-kubernetes"><img src="https://github.com/mmorejon/once-upon-a-time-k8s/blob/main/assets/book-cover.jpg" width="150" alt="Kubernetes English"></a> | <a href="https://leanpub.com/erase-una-vez-docker"><img src="https://github.com/mmorejon/erase-una-vez-docker/blob/main/assets/cover-image.jpg" width="150" alt="Docker Español"></a> | <a href="https://leanpub.com/erase-una-vez-kubernetes"><img src="https://github.com/mmorejon/erase-una-vez-k8s/blob/main/assets/book-cover.jpg" width="150" alt="Kubernetes Español"></a> |
+| 🇬🇧 **English Edition**<br>*(Containers from scratch)* | 🇬🇧 **English Edition**<br>*(Updated v1.36 + Kind)* | 🇪🇸 **Edición en Español**<br>*(Aprende desde cero)* | 🇪🇸 **Edición en Español**<br>*(Actualizado v1.36)* |
+| [📖 Download (Free/PWYW)](https://leanpub.com/once-upon-a-time-docker)<br>[📦 Buy Paperback (Project Q)](https://www.projectqpub.com/books/docker-once-upon-a-time) | [📖 Download (Free/PWYW)](https://leanpub.com/once-upon-a-time-kubernetes)<br>[📦 Buy Paperback (Amazon)](https://www.amazon.com/dp/B0FB44MDQ7) | [📖 Descargar (Free/PWYW)](https://leanpub.com/erase-una-vez-docker)<br>[📦 Tapa Blanda (Amazon)](https://www.amazon.es/dp/B0HHXYDRNW) | [📖 Descargar (Free/PWYW)](https://leanpub.com/erase-una-vez-kubernetes)<br>[📦 Tapa Blanda (Amazon)](https://www.amazon.es/dp/B0HJ3WB7ZJ) |
 
 ---
 
@@ -26,7 +26,8 @@ Explore the code behind the books. **Starring ⭐ these repos helps a lot!**
 
 #### 📖 Book Companions
 * **[once-upon-a-time-k8s](https://github.com/mmorejon/once-upon-a-time-k8s)**: (🔥 *Hot*) Official lab environment for the K8s book (English). Fully migrated to **Kind**. No VMs needed.
-* **[erase-una-vez-k8s](https://github.com/mmorejon/erase-una-vez-k8s)**: Laboratorios oficiales para la edición en Español. Actualizado a **Kind** y **v1.35**.
+* **[once-upon-a-time-docker](https://github.com/mmorejon/once-upon-a-time-docker)**: Hands-on exercises to master Dockerfiles, Networking, and Volumes (English Edition).
+* **[erase-una-vez-k8s](https://github.com/mmorejon/erase-una-vez-k8s)**: Laboratorios oficiales para la edición en Español. Actualizado a **Kind** y **v1.36**.
 * **[erase-una-vez-docker](https://github.com/mmorejon/erase-una-vez-docker)**: Ejercicios completos para dominar Dockerfiles, Redes y Volúmenes (Spanish Edition).
 
 #### 🛠️ Architecture & Microservices
